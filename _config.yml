@@ -1,11 +1,11 @@
 # Site settings
 author: Carissa Sarreal
-title: 
+title: MindSpace
 header-img: img/home-bg.png
 email: carissa.sarreal@gmail.com
 copyright_name: Carissa Sarreal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  where the wild thoughts grow
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  imcarissa
