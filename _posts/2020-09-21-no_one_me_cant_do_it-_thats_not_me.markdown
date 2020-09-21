@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "No one: __ Me: Can't do it- that's not me"
-date:       2020-09-21 21:00:01 +0000
+date:       2020-09-21 17:00:02 -0400
 permalink:  no_one_me_cant_do_it-_thats_not_me
 ---
 
@@ -21,7 +21,9 @@ Okay- why do I want to become a software engineer?
 
 A few months before quarantine, I was conceptualizing a curriculum for how to make wine not only teachable, but easier to understand by any every day wine drinker. Most of my roadblocks was technology related. I was frustrated I'd have to use a 3rd party to execute what I needed when I could've executed faster if it was by myself- things like a website, a cloud, an app to deliver real time slide show over your phone, even just graphic design.
 
-Thanks to a more positive group of people in my life, my mindset changed and I have a newfound belief in myself. I used to always say "No that's not me. I can't study computers." Now I think, "Why can't that be me? If they can learn it, no reason why I can't either." And you have to want it. And I do want it.
+Thanks to a more positive group of people in my life, my mindset changed and I have a newfound belief in myself. I used to always say "No that's not me. I can't study computers." All the while having this jealousy over people who were in the tech industry. I was even jealous of my partner as I watched him work from home, and looking on the outside how set his life is. That's exactly how he phrased it, "You will be set."
+
+Now I think, "Why can't that be me? If they can learn it, no reason why I can't either." And you have to want it. And I do want it.
 
 When the cards started to magically fall on the table that I was going to get into a top bootcamp of choice under all the parameters I needed to finish the course, I couldn't ignore that if I want my life to change for the better - it starts and ends with me. Qutting is not an option here. I have so much on the line. I've been warned by many friends in the industry the blood and sweat that would happen, but once you're over the hill it will pay itself off. This is my Mount Everest. Every time I think of maybe I should give up because it's hard, I feel so sad because not only is there no Plan B, but I don't want to fail or quit something again. (That is another story).
 
